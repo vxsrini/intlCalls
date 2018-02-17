@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IntlCall</string>
+    <string name="enter_contact">Enter Contact :</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_contact">Search Contact</string>
+    <string name="enter_tn">Enter TN</string>
+
+</resources>
